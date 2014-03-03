@@ -1,3 +1,6 @@
+
+Hello World with love and understanding.
+
 # About
 
 This is a fork of [Angular Seed](https://github.com/angular/angular-seed) but with changes needed for requireJS support.
