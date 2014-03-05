@@ -1,4 +1,4 @@
-Testing Jenkins on Amazon
+Testing Jenkins
 
 # About
 
