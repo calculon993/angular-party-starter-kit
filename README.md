@@ -1,4 +1,4 @@
-Testing Jenkins EC2 Instance 1
+Testing Jenkins EC2 Instance
 
 # About
 
